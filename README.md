@@ -1,7 +1,7 @@
 # Trabalho Desenvolvimento WEB (Front e Back end)
 ### Aluno: Murilo Cavazzana Ribeiro
 
-Neste projeto, estou utilizando node, sequelize e PostGres.
+Neste projeto estou utilizando node, sequelize e PostGres.
 * Para o funcionamento correto, manter o mesmo modelo de banco de dados.
 
 ### Página Default
