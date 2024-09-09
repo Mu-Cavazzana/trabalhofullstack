@@ -1,8 +1,10 @@
 # Trabalho Desenvolvimento WEB (Front e Back end)
 ### Aluno: Murilo Cavazzana Ribeiro
 
-Neste projeto estou utilizando node, sequelize e PostGres.
+Neste projeto estou utilizando Node, Sequelize e PostGres.
+
 * Para o funcionamento correto, manter o mesmo modelo de banco de dados.
+* antes de rodar o projeto, é necessário criar a database 'trabalhofullstack' no pgAdmin4, e depois utilizar o comando 'npx sequelize-cli db:migrate' dentro do terminal para migrar as tabelas.
 
 ### Página Default
 ![image](https://github.com/user-attachments/assets/005c54c0-0577-492d-a4c8-5b3601288fd9)
@@ -18,6 +20,4 @@ Neste projeto estou utilizando node, sequelize e PostGres.
 
 ### Dados salvos no banco de dados (PgAdmin4)
 ![image](https://github.com/user-attachments/assets/7614d32b-91da-4c38-b758-b289df31c2d6)
-
-* antes de rodar o projeto, é necessário criar a database 'trabalhofullstack' no pgAdmin4, e depois utilizar o comando 'npx sequelize-cli db:migrate' dentro do terminal para migrar as tabelas.
 
